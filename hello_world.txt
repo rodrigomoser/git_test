@@ -1,1 +1,3 @@
 THis is a simple test of Git
+
+This is a test of the commit without VIM
